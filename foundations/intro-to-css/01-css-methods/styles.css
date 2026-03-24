@@ -3,5 +3,6 @@ div {
     color: white;
     background-color: red;
     text-align: center;
-    font-size: 50px;
+    font-size: 32px;
+    font-weight: bold;
 }
